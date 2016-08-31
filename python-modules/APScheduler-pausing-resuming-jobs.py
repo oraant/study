@@ -1,3 +1,7 @@
+# coding:utf08
+
+# 测试调度器的暂停效果，用后台调度的方式就相当于多线程了吧
+
 #from apscheduler.schedulers.blocking import BlockingScheduler as Scheduler
 from apscheduler.schedulers.background import BackgroundScheduler as Scheduler
 import time
