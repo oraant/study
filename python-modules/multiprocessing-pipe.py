@@ -1,3 +1,4 @@
+# coding:utf-8
 from multiprocessing import Process, Pipe
 from time import sleep
 
@@ -20,8 +21,8 @@ print left.recv()
 
 
 # system just copy ends of the pipe when fork, doesn't copy pipe.
+"""
 print '--------------'
-
 def children():
     left.send("children send into parent ends")
 
@@ -33,6 +34,20 @@ def main():
     print right.recv()
     print right.recv()
     print right.recv()
+
+main()
+"""
+
+# what will happen if recv before send.
+print '--------------'
+
+def children():
+    print right.recv()
+
+def main():
+    Process(target=children).start()
+    sleep(1)
+    left.send("hello,hey ya")
 
 main()
 
