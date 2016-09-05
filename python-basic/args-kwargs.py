@@ -25,3 +25,11 @@ f2('zhang', *tuple_words)
 # arg名字可以是arg，也可以是其他的任何名字
 # 传的时候列表和元组都是一个内容
 # 如果已经有一个list或tuple，可以通过f(×list)的方式调用
+
+import time
+
+def f3(name, **kw):
+    print name
+    print kw
+
+f3('zhang', event='haha', time=time)
