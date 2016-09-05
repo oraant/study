@@ -37,31 +37,27 @@ def f():
         raise KeyError('a')
     v = v+1
 
-
-def listener(event):
-    return
-    T.current_thread().name = 'listener'
-    show(T.current_thread(),'the listener.')
-    sleep(1)
+def close():
+    show('','closing, shutting ...')
     s.shutdown()
-    show(T.current_thread(),'the listener.')
-        
+    show('','closing, done')
+
+
 show('','main')
 
 s.add_job(f, 'interval', seconds=5)
-s.add_listener(listener, EVENT_JOB_ERROR)
 s.start()
 
-sleep(13)
+sleep(11)
+T.Thread(target=close).start()
+sleep(1)
 show('','main, shutting ...')
-s.shutdown()
+s.shutdown(wait=False)
 show('','main, done')
 
 sleep(10000)
 
 # 结论：
-# APScheduler（以下简称AP）有两种方式的进程调度，一种是线程池方式的，一种是进程池方式的。默认是线程池式的，且最大线程数为10。
-# 每次到了调度时间时，AP首先会在线程池中添加一个新的线程，除非线程池已经满了。
-# 然后，从线程池中随意调取一个线程，用来执行要执行的任务。
-# 
-# 抛出异常，同样会使用线程池中的线程去调用监听异常的回调函数。
+# 关闭时，如果shutdown时如果正好有正在执行的任务，那么shutdown会阻塞等待其完成。否则，shutdown立马就执行了。
+# 关闭时，如果scheduler没有在运行，就会报错：   apscheduler.schedulers.SchedulerNotRunningError: Scheduler is not running
+# 关闭时，如果在一个线程中调用了shutdown但是hang住了，这时想再开个线程调用shutdown(wait=False)，这是不行的，还是会报上面的错误
