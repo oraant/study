@@ -1,6 +1,7 @@
 # coding:utf-8
 
-import daemon, random
+import random
+from daemon import DaemonContext
 from time import sleep
 
 def output(msg):
@@ -19,6 +20,6 @@ def main_job():
         output(str(random.random()))
         sleep(1)
 
-with daemon.DaemonContext():
+with DaemonContext():
     pre_main()
     main_job()
