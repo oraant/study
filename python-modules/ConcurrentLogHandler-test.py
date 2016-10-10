@@ -7,7 +7,7 @@ from time import ctime, sleep
 from random import random
 from multiprocessing import Process as P
 
-logfile = os.path.abspath("/home/oraant/study/data/test.log")
+logfile = os.path.abspath("/home/oraant/study/data2/test2.log")
 loghandler = CRFHandler(logfile, 'a', 1024*4, 3)
 
 logger = getLogger()
