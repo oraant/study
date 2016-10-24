@@ -1,4 +1,5 @@
 # this script may hang when number is 60, try it again and again, you will find it hang for 5 seconds, and log file is broken.
+# command is    cat tmp.log |sort -Vu |wc -l
 
 from multiprocessing import Process as P
 import logging

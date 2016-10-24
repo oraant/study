@@ -1,0 +1,9 @@
+---
+<Process(Process-1, unknown)>
+in daemon.
+p2 started
+<type 'exceptions.Exception'>
+AssertionError('can only start a process object created by current process',)
+p1 started or failed.
+this is father
+this is child2
