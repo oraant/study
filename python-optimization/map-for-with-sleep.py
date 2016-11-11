@@ -22,5 +22,8 @@ def f1():
 def f2():
     map(lambda x:f(x), l)
 
+print '---'
 gap(f1)
+print '---'
 gap(f2)
+print '---'

@@ -2,6 +2,7 @@
 from __future__ import absolute_import
 from time import sleep
 from main import app
+import signal
 
 
 @app.task
@@ -28,6 +29,14 @@ def preserve(msg, count):
     for i in range(count):
         sleep(1)
         output(msg)
+
+@app.task
+def handle_signal(count):
+    def handle(a, b): output('received signal:[%s,%s]' % (a,b))
+    signal.signal(signal.SIGKILL, handle)
+    for i in range(count):
+        output(i)
+        sleep(1)
 
 @app.task(bind=True) #, default_retry_delay=3, max_retries=2)
 def raiseerror(self, msg, count):
@@ -65,3 +74,4 @@ def job(i, msg):
 # retry时，不要设置tried之类的变量，来判断是否重启过。因为每次重启，都会将其搞成初始值。可以考虑用request来设置这个。
 # retry时，如果是像pull这样一直不会结束的任务，max_retries就相当于一个会执行几次。所以最好设置成一直尝试重启，然后重启间隔为一天
 # 在task中可以动态修改task的属性，如default_retry_delay等，但要注意的是，根据request的retries来判断次数并修改retry的配置时，下次retry才会生效
+# 可以直接raise self.retry()，不用try except，也不用传东西，但是只能做实验用

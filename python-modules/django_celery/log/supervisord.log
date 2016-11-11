@@ -1,0 +1,918 @@
+2016-11-09 18:56:49,193 CRIT Can't drop privilege as nonroot user
+2016-11-09 18:56:49,193 INFO Included extra file "/home/oraant/test/django_celery/etc/celeryd.conf" during parsing
+2016-11-09 18:57:02,939 CRIT Can't drop privilege as nonroot user
+2016-11-09 18:57:02,939 INFO Included extra file "/home/oraant/test/django_celery/etc/celeryd.conf" during parsing
+2016-11-09 18:57:02,948 INFO RPC interface 'supervisor' initialized
+2016-11-09 18:57:02,948 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 18:57:02,949 INFO daemonizing the supervisord process
+2016-11-09 18:57:02,949 CRIT could not write pidfile /var/run/supervisord.pid
+2016-11-09 18:57:03,953 INFO spawned: 'django_celery' with pid 27155
+2016-11-09 18:57:03,963 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 18:57:04,967 INFO spawned: 'django_celery' with pid 27157
+2016-11-09 18:57:04,975 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 18:57:06,979 INFO spawned: 'django_celery' with pid 27160
+2016-11-09 18:57:06,988 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 18:57:09,994 INFO spawned: 'django_celery' with pid 27166
+2016-11-09 18:57:10,005 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 18:57:11,006 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:25:11,266 CRIT Can't drop privilege as nonroot user
+2016-11-09 19:25:11,266 INFO Included extra file "/home/oraant/test/django_celery/etc/celeryd.conf" during parsing
+2016-11-09 19:25:11,281 INFO RPC interface 'supervisor' initialized
+2016-11-09 19:25:11,281 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 19:25:11,282 INFO daemonizing the supervisord process
+2016-11-09 19:25:11,282 CRIT could not write pidfile /var/run/supervisord.pid
+2016-11-09 19:25:12,287 INFO spawned: 'django_celery' with pid 29314
+2016-11-09 19:25:12,296 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:25:13,300 INFO spawned: 'django_celery' with pid 29316
+2016-11-09 19:25:13,310 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:25:15,314 INFO spawned: 'django_celery' with pid 29317
+2016-11-09 19:25:15,324 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:25:18,330 INFO spawned: 'django_celery' with pid 29319
+2016-11-09 19:25:18,340 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:25:19,342 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:26:57,024 INFO spawned: 'django_celery' with pid 29431
+2016-11-09 19:26:57,030 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:26:58,034 INFO spawned: 'django_celery' with pid 29432
+2016-11-09 19:26:58,043 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:00,052 INFO spawned: 'django_celery' with pid 29435
+2016-11-09 19:27:00,061 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:03,067 INFO spawned: 'django_celery' with pid 29436
+2016-11-09 19:27:03,076 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:04,077 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:27:17,538 INFO spawned: 'django_celery' with pid 29480
+2016-11-09 19:27:17,543 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:18,547 INFO spawned: 'django_celery' with pid 29481
+2016-11-09 19:27:18,557 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:20,565 INFO spawned: 'django_celery' with pid 29482
+2016-11-09 19:27:20,575 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:23,547 INFO spawned: 'django_celery' with pid 29488
+2016-11-09 19:27:23,550 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:27:24,551 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:34:10,900 CRIT Can't drop privilege as nonroot user
+2016-11-09 19:34:10,900 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-09 19:34:10,914 INFO RPC interface 'supervisor' initialized
+2016-11-09 19:34:10,915 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 19:34:10,915 INFO daemonizing the supervisord process
+2016-11-09 19:34:10,916 CRIT could not write pidfile /var/run/supervisord.pid
+2016-11-09 19:34:11,920 INFO spawned: 'django_celery' with pid 29715
+2016-11-09 19:34:11,930 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:34:12,934 INFO spawned: 'django_celery' with pid 29716
+2016-11-09 19:34:12,943 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:34:14,948 INFO spawned: 'django_celery' with pid 29717
+2016-11-09 19:34:14,957 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:34:17,963 INFO spawned: 'django_celery' with pid 29718
+2016-11-09 19:34:17,972 INFO exited: django_celery (exit status 127; not expected)
+2016-11-09 19:34:18,974 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:38:00,529 CRIT Set uid to user 0
+2016-11-09 19:38:00,529 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-09 19:38:00,855 INFO RPC interface 'supervisor' initialized
+2016-11-09 19:38:00,855 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 19:38:00,856 INFO daemonizing the supervisord process
+2016-11-09 19:38:00,857 INFO supervisord started with pid 29818
+2016-11-09 19:38:01,861 INFO spawned: 'django_celery' with pid 29819
+2016-11-09 19:38:02,924 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:03,927 INFO spawned: 'django_celery' with pid 29824
+2016-11-09 19:38:04,398 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:06,403 INFO spawned: 'django_celery' with pid 29831
+2016-11-09 19:38:06,877 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:09,883 INFO spawned: 'django_celery' with pid 29839
+2016-11-09 19:38:10,341 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:11,343 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:38:11,711 CRIT Set uid to user 0
+2016-11-09 19:38:11,712 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-09 19:38:11,721 INFO RPC interface 'supervisor' initialized
+2016-11-09 19:38:11,721 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 19:38:11,722 INFO daemonizing the supervisord process
+2016-11-09 19:38:11,722 INFO supervisord started with pid 29850
+2016-11-09 19:38:12,727 INFO spawned: 'django_celery' with pid 29851
+2016-11-09 19:38:13,173 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:14,177 INFO spawned: 'django_celery' with pid 29856
+2016-11-09 19:38:14,656 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:16,661 INFO spawned: 'django_celery' with pid 29861
+2016-11-09 19:38:17,142 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:20,147 INFO spawned: 'django_celery' with pid 29866
+2016-11-09 19:38:20,625 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:38:21,627 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:39:01,519 CRIT Set uid to user 0
+2016-11-09 19:39:01,519 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-09 19:39:01,529 INFO RPC interface 'supervisor' initialized
+2016-11-09 19:39:01,529 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 19:39:01,530 INFO daemonizing the supervisord process
+2016-11-09 19:39:01,530 INFO supervisord started with pid 29902
+2016-11-09 19:39:02,534 INFO spawned: 'django_celery' with pid 29903
+2016-11-09 19:39:02,977 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:39:03,981 INFO spawned: 'django_celery' with pid 29908
+2016-11-09 19:39:04,448 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:39:06,454 INFO spawned: 'django_celery' with pid 29913
+2016-11-09 19:39:06,940 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:39:09,946 INFO spawned: 'django_celery' with pid 29920
+2016-11-09 19:39:10,443 INFO exited: django_celery (exit status 1; not expected)
+2016-11-09 19:39:11,445 INFO gave up: django_celery entered FATAL state, too many start retries too quickly
+2016-11-09 19:41:01,388 CRIT Set uid to user 0
+2016-11-09 19:41:01,388 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-09 19:41:01,398 INFO RPC interface 'supervisor' initialized
+2016-11-09 19:41:01,398 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-09 19:41:01,399 INFO daemonizing the supervisord process
+2016-11-09 19:41:01,399 INFO supervisord started with pid 29989
+2016-11-09 19:41:02,404 INFO spawned: 'django_celery' with pid 29990
+2016-11-09 19:41:12,822 INFO success: django_celery entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-09 19:45:57,647 INFO waiting for django_celery to stop
+2016-11-09 19:45:59,195 INFO stopped: django_celery (exit status 0)
+2016-11-09 19:54:50,097 WARN received SIGTERM indicating exit request
+2016-11-10 08:55:11,129 CRIT Set uid to user 0
+2016-11-10 08:55:11,138 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-10 08:55:11,209 INFO RPC interface 'supervisor' initialized
+2016-11-10 08:55:11,209 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-10 08:55:11,210 INFO daemonizing the supervisord process
+2016-11-10 08:55:11,210 INFO supervisord started with pid 3718
+2016-11-10 08:55:12,215 INFO spawned: 'django_celery' with pid 3719
+2016-11-10 08:55:22,483 INFO success: django_celery entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 09:10:41,140 INFO waiting for django_celery to stop
+2016-11-10 09:10:42,688 INFO stopped: django_celery (exit status 0)
+2016-11-10 09:10:42,692 INFO spawned: 'django_celery' with pid 4115
+2016-11-10 09:10:53,325 INFO success: django_celery entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 09:59:36,278 INFO waiting for django_celery to stop
+2016-11-10 09:59:37,830 INFO stopped: django_celery (exit status 0)
+2016-11-10 10:00:45,042 CRIT Set uid to user 0
+2016-11-10 10:00:45,042 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-10 10:00:45,051 INFO RPC interface 'supervisor' initialized
+2016-11-10 10:00:45,051 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-10 10:00:45,052 INFO daemonizing the supervisord process
+2016-11-10 10:00:45,052 INFO supervisord started with pid 5347
+2016-11-10 10:00:46,056 INFO spawned: 'dc' with pid 5348
+2016-11-10 10:00:56,253 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 12:59:48,109 INFO waiting for dc to stop
+2016-11-10 12:59:48,161 INFO stopped: dc (exit status 0)
+2016-11-10 12:59:57,319 INFO spawned: 'dc' with pid 16394
+2016-11-10 13:00:08,051 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 13:47:17,313 INFO waiting for dc to stop
+2016-11-10 13:47:17,373 INFO stopped: dc (exit status 0)
+2016-11-10 13:47:17,377 INFO spawned: 'dc' with pid 25301
+2016-11-10 13:47:28,081 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 13:48:18,486 INFO waiting for dc to stop
+2016-11-10 13:48:20,038 INFO stopped: dc (exit status 0)
+2016-11-10 13:48:20,042 INFO spawned: 'dc' with pid 25333
+2016-11-10 13:48:30,493 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 13:49:26,854 INFO waiting for dc to stop
+2016-11-10 13:49:26,909 INFO stopped: dc (exit status 0)
+2016-11-10 13:49:26,913 INFO spawned: 'dc' with pid 25362
+2016-11-10 13:49:27,384 INFO exited: dc (exit status 1; not expected)
+2016-11-10 13:49:28,390 INFO spawned: 'dc' with pid 25367
+2016-11-10 13:49:28,841 INFO exited: dc (exit status 1; not expected)
+2016-11-10 13:49:30,846 INFO spawned: 'dc' with pid 25372
+2016-11-10 13:49:31,291 INFO exited: dc (exit status 1; not expected)
+2016-11-10 13:49:34,297 INFO spawned: 'dc' with pid 25377
+2016-11-10 13:49:34,735 INFO exited: dc (exit status 1; not expected)
+2016-11-10 13:49:35,736 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-10 13:49:54,259 INFO spawned: 'dc' with pid 25399
+2016-11-10 13:50:04,827 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 14:48:53,869 INFO waiting for dc to stop
+2016-11-10 14:48:55,869 INFO waiting for dc to stop
+2016-11-10 14:48:57,869 INFO waiting for dc to stop
+2016-11-10 14:48:59,869 INFO waiting for dc to stop
+2016-11-10 14:49:01,869 INFO waiting for dc to stop
+2016-11-10 14:49:03,869 INFO waiting for dc to stop
+2016-11-10 14:49:05,869 INFO waiting for dc to stop
+2016-11-10 14:49:31,504 INFO stopped: dc (terminated by SIGKILL)
+2016-11-10 14:52:51,955 INFO spawned: 'dc' with pid 28134
+2016-11-10 14:53:02,454 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 15:40:21,153 INFO waiting for dc to stop
+2016-11-10 15:40:21,248 INFO stopped: dc (exit status 0)
+2016-11-10 15:40:21,252 INFO spawned: 'dc' with pid 31563
+2016-11-10 15:40:21,912 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:22,918 INFO spawned: 'dc' with pid 31569
+2016-11-10 15:40:23,359 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:25,363 INFO spawned: 'dc' with pid 31574
+2016-11-10 15:40:25,838 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:28,843 INFO spawned: 'dc' with pid 31588
+2016-11-10 15:40:29,281 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:30,283 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-10 15:40:31,070 INFO spawned: 'dc' with pid 31598
+2016-11-10 15:40:31,448 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:32,451 INFO spawned: 'dc' with pid 31603
+2016-11-10 15:40:32,927 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:35,883 INFO spawned: 'dc' with pid 31608
+2016-11-10 15:40:36,349 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:39,355 INFO spawned: 'dc' with pid 31615
+2016-11-10 15:40:39,818 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:40,819 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-10 15:40:47,036 INFO spawned: 'dc' with pid 31625
+2016-11-10 15:40:47,424 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:48,428 INFO spawned: 'dc' with pid 31630
+2016-11-10 15:40:48,900 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:50,908 INFO spawned: 'dc' with pid 31635
+2016-11-10 15:40:51,384 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:54,391 INFO spawned: 'dc' with pid 31642
+2016-11-10 15:40:54,854 INFO exited: dc (exit status 1; not expected)
+2016-11-10 15:40:55,855 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-10 15:42:06,794 INFO spawned: 'dc' with pid 31694
+2016-11-10 15:42:17,338 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 15:44:35,501 INFO waiting for dc to stop
+2016-11-10 15:44:35,552 INFO stopped: dc (exit status 0)
+2016-11-10 15:44:35,555 INFO spawned: 'dc' with pid 32174
+2016-11-10 15:44:45,637 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 15:44:58,172 INFO exited: dc (terminated by SIGKILL; not expected)
+2016-11-10 15:44:59,176 INFO spawned: 'dc' with pid 32278
+2016-11-10 15:45:04,145 INFO waiting for dc to stop
+2016-11-10 15:45:04,185 INFO stopped: dc (exit status 0)
+2016-11-10 15:45:04,188 INFO spawned: 'dc' with pid 32307
+2016-11-10 15:45:14,723 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 15:56:06,519 INFO waiting for dc to stop
+2016-11-10 15:56:06,566 INFO stopped: dc (exit status 0)
+2016-11-10 15:56:06,570 INFO spawned: 'dc' with pid 1383
+2016-11-10 15:56:17,123 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 15:58:27,781 INFO waiting for dc to stop
+2016-11-10 15:58:27,829 INFO stopped: dc (exit status 0)
+2016-11-10 15:58:27,832 INFO spawned: 'dc' with pid 1518
+2016-11-10 15:58:38,364 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 16:01:44,837 INFO waiting for dc to stop
+2016-11-10 16:01:44,886 INFO stopped: dc (exit status 0)
+2016-11-10 16:01:44,890 INFO spawned: 'dc' with pid 1652
+2016-11-10 16:01:55,446 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 16:04:12,058 INFO waiting for dc to stop
+2016-11-10 16:04:12,105 INFO stopped: dc (exit status 0)
+2016-11-10 16:04:12,109 INFO spawned: 'dc' with pid 1795
+2016-11-10 16:04:22,648 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 16:06:25,267 INFO waiting for dc to stop
+2016-11-10 16:06:25,309 INFO stopped: dc (exit status 0)
+2016-11-10 16:06:25,312 INFO spawned: 'dc' with pid 1905
+2016-11-10 16:06:35,839 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 16:11:22,770 INFO waiting for dc to stop
+2016-11-10 16:11:22,822 INFO stopped: dc (exit status 0)
+2016-11-10 16:11:22,826 INFO spawned: 'dc' with pid 2380
+2016-11-10 16:11:33,472 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 16:22:11,601 INFO waiting for dc to die
+2016-11-10 16:22:14,720 INFO waiting for dc to die
+2016-11-10 16:22:17,721 INFO waiting for dc to die
+2016-11-10 16:22:21,720 INFO waiting for dc to die
+2016-11-10 16:22:24,721 INFO waiting for dc to die
+2016-11-10 16:22:28,719 INFO waiting for dc to die
+2016-11-10 16:22:31,723 INFO waiting for dc to die
+2016-11-10 16:22:35,722 INFO waiting for dc to die
+2016-11-10 16:22:38,722 INFO waiting for dc to die
+2016-11-10 16:22:42,719 INFO waiting for dc to die
+2016-11-10 16:22:45,719 INFO waiting for dc to die
+2016-11-10 16:22:48,720 INFO waiting for dc to die
+2016-11-10 16:22:52,718 INFO waiting for dc to die
+2016-11-10 16:22:55,722 INFO waiting for dc to die
+2016-11-10 16:22:58,685 INFO stopped: dc (terminated by SIGKILL)
+2016-11-10 16:35:56,203 CRIT Set uid to user 0
+2016-11-10 16:35:56,203 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-10 16:35:56,203 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-10 16:35:56,253 INFO RPC interface 'supervisor' initialized
+2016-11-10 16:35:56,253 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-10 16:35:56,254 INFO daemonizing the supervisord process
+2016-11-10 16:35:56,255 INFO supervisord started with pid 3295
+2016-11-10 16:35:57,259 INFO spawned: 'dc' with pid 3296
+2016-11-10 16:36:07,910 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 16:54:02,413 INFO waiting for dc to stop
+2016-11-10 16:54:02,471 INFO stopped: dc (exit status 0)
+2016-11-10 16:54:02,474 INFO spawned: 'dc' with pid 7782
+2016-11-10 16:54:13,025 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 17:08:13,792 INFO waiting for dc to stop
+2016-11-10 17:08:15,792 INFO waiting for dc to stop
+2016-11-10 17:08:17,793 INFO waiting for dc to stop
+2016-11-10 17:08:19,793 INFO waiting for dc to stop
+2016-11-10 17:08:21,793 INFO waiting for dc to stop
+2016-11-10 17:08:23,793 INFO waiting for dc to stop
+2016-11-10 17:08:25,793 INFO waiting for dc to stop
+2016-11-10 17:08:27,793 INFO waiting for dc to stop
+2016-11-10 17:08:29,793 INFO waiting for dc to stop
+2016-11-10 17:08:31,793 INFO waiting for dc to stop
+2016-11-10 17:08:33,793 INFO waiting for dc to stop
+2016-11-10 17:08:35,793 INFO waiting for dc to stop
+2016-11-10 17:08:37,793 INFO waiting for dc to stop
+2016-11-10 17:08:39,793 INFO waiting for dc to stop
+2016-11-10 17:08:41,793 INFO waiting for dc to stop
+2016-11-10 17:08:43,793 INFO waiting for dc to stop
+2016-11-10 17:08:45,793 INFO waiting for dc to stop
+2016-11-10 17:08:47,793 INFO waiting for dc to stop
+2016-11-10 17:08:49,793 INFO waiting for dc to stop
+2016-11-10 17:08:51,793 INFO waiting for dc to stop
+2016-11-10 17:08:53,793 INFO waiting for dc to stop
+2016-11-10 17:08:55,793 INFO waiting for dc to stop
+2016-11-10 17:08:57,793 INFO waiting for dc to stop
+2016-11-10 17:08:59,793 INFO waiting for dc to stop
+2016-11-10 17:09:01,793 INFO waiting for dc to stop
+2016-11-10 17:09:35,055 INFO stopped: dc (terminated by SIGKILL)
+2016-11-10 17:10:12,174 INFO spawned: 'dc' with pid 11142
+2016-11-10 17:10:22,995 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 17:30:17,918 INFO waiting for dc to stop
+2016-11-10 17:30:19,918 INFO waiting for dc to stop
+2016-11-10 17:30:21,918 INFO waiting for dc to stop
+2016-11-10 17:30:23,918 INFO waiting for dc to stop
+2016-11-10 17:30:25,918 INFO waiting for dc to stop
+2016-11-10 17:30:27,918 INFO waiting for dc to stop
+2016-11-10 17:30:29,918 INFO waiting for dc to stop
+2016-11-10 17:30:31,918 INFO waiting for dc to stop
+2016-11-10 17:30:33,918 INFO waiting for dc to stop
+2016-11-10 17:30:35,918 INFO waiting for dc to stop
+2016-11-10 17:30:37,918 INFO waiting for dc to stop
+2016-11-10 17:30:39,918 INFO waiting for dc to stop
+2016-11-10 17:30:41,918 INFO waiting for dc to stop
+2016-11-10 17:30:43,918 INFO waiting for dc to stop
+2016-11-10 17:30:45,918 INFO waiting for dc to stop
+2016-11-10 17:30:47,918 INFO waiting for dc to stop
+2016-11-10 17:30:49,918 INFO waiting for dc to stop
+2016-11-10 17:30:51,918 INFO waiting for dc to stop
+2016-11-10 17:30:53,918 INFO waiting for dc to stop
+2016-11-10 17:30:55,918 INFO waiting for dc to stop
+2016-11-10 17:30:57,918 INFO waiting for dc to stop
+2016-11-10 17:30:59,918 INFO waiting for dc to stop
+2016-11-10 17:31:01,918 INFO waiting for dc to stop
+2016-11-10 17:31:03,918 INFO waiting for dc to stop
+2016-11-10 17:31:05,918 INFO waiting for dc to stop
+2016-11-10 17:31:07,918 INFO waiting for dc to stop
+2016-11-10 17:31:09,918 INFO waiting for dc to stop
+2016-11-10 17:31:11,918 INFO waiting for dc to stop
+2016-11-10 17:31:13,918 INFO waiting for dc to stop
+2016-11-10 17:31:15,918 INFO waiting for dc to stop
+2016-11-10 17:31:17,918 INFO waiting for dc to stop
+2016-11-10 17:31:19,918 INFO waiting for dc to stop
+2016-11-10 17:31:21,918 INFO waiting for dc to stop
+2016-11-10 17:31:23,918 INFO waiting for dc to stop
+2016-11-10 17:31:25,918 INFO waiting for dc to stop
+2016-11-10 17:31:27,918 INFO waiting for dc to stop
+2016-11-10 17:31:29,919 INFO waiting for dc to stop
+2016-11-10 17:31:31,919 INFO waiting for dc to stop
+2016-11-10 17:31:33,919 INFO waiting for dc to stop
+2016-11-10 17:31:35,919 INFO waiting for dc to stop
+2016-11-10 17:31:37,919 INFO waiting for dc to stop
+2016-11-10 17:31:39,919 INFO waiting for dc to stop
+2016-11-10 17:31:41,919 INFO waiting for dc to stop
+2016-11-10 17:31:43,919 INFO waiting for dc to stop
+2016-11-10 17:31:45,919 INFO waiting for dc to stop
+2016-11-10 17:31:47,919 INFO waiting for dc to stop
+2016-11-10 17:31:49,919 INFO waiting for dc to stop
+2016-11-10 17:31:51,919 INFO waiting for dc to stop
+2016-11-10 17:31:53,919 INFO waiting for dc to stop
+2016-11-10 17:31:55,919 INFO waiting for dc to stop
+2016-11-10 17:31:57,919 INFO waiting for dc to stop
+2016-11-10 17:31:59,919 INFO waiting for dc to stop
+2016-11-10 17:32:01,919 INFO waiting for dc to stop
+2016-11-10 17:32:03,919 INFO waiting for dc to stop
+2016-11-10 17:32:05,919 INFO waiting for dc to stop
+2016-11-10 17:32:07,919 INFO waiting for dc to stop
+2016-11-10 17:32:09,919 INFO waiting for dc to stop
+2016-11-10 17:32:11,919 INFO waiting for dc to stop
+2016-11-10 17:32:13,919 INFO waiting for dc to stop
+2016-11-10 17:32:15,919 INFO waiting for dc to stop
+2016-11-10 17:32:17,919 INFO waiting for dc to stop
+2016-11-10 17:32:19,919 INFO waiting for dc to stop
+2016-11-10 17:32:21,919 INFO waiting for dc to stop
+2016-11-10 17:32:23,919 INFO waiting for dc to stop
+2016-11-10 17:32:25,919 INFO waiting for dc to stop
+2016-11-10 17:32:27,919 INFO waiting for dc to stop
+2016-11-10 17:32:29,919 INFO waiting for dc to stop
+2016-11-10 17:32:31,919 INFO waiting for dc to stop
+2016-11-10 17:32:33,919 INFO waiting for dc to stop
+2016-11-10 17:32:35,919 INFO waiting for dc to stop
+2016-11-10 17:32:37,919 INFO waiting for dc to stop
+2016-11-10 17:32:39,919 INFO waiting for dc to stop
+2016-11-10 17:32:41,919 INFO waiting for dc to stop
+2016-11-10 17:32:43,919 INFO waiting for dc to stop
+2016-11-10 17:32:45,919 INFO waiting for dc to stop
+2016-11-10 17:32:47,919 INFO waiting for dc to stop
+2016-11-10 17:32:49,919 INFO waiting for dc to stop
+2016-11-10 17:32:51,919 INFO waiting for dc to stop
+2016-11-10 17:32:53,919 INFO waiting for dc to stop
+2016-11-10 17:32:55,919 INFO waiting for dc to stop
+2016-11-10 17:32:57,919 INFO waiting for dc to stop
+2016-11-10 17:32:59,919 INFO waiting for dc to stop
+2016-11-10 17:33:01,919 INFO waiting for dc to stop
+2016-11-10 17:33:03,919 INFO waiting for dc to stop
+2016-11-10 17:33:05,919 INFO waiting for dc to stop
+2016-11-10 17:33:07,919 INFO waiting for dc to stop
+2016-11-10 17:33:09,919 INFO waiting for dc to stop
+2016-11-10 17:33:11,919 INFO waiting for dc to stop
+2016-11-10 17:33:13,919 INFO waiting for dc to stop
+2016-11-10 17:33:15,919 INFO waiting for dc to stop
+2016-11-10 17:33:17,919 INFO waiting for dc to stop
+2016-11-10 17:33:19,919 INFO waiting for dc to stop
+2016-11-10 17:33:21,919 INFO waiting for dc to stop
+2016-11-10 17:33:23,919 INFO waiting for dc to stop
+2016-11-10 17:33:25,919 INFO waiting for dc to stop
+2016-11-10 17:33:27,919 INFO waiting for dc to stop
+2016-11-10 17:33:29,919 INFO waiting for dc to stop
+2016-11-10 17:33:31,919 INFO waiting for dc to stop
+2016-11-10 17:33:33,920 INFO waiting for dc to stop
+2016-11-10 17:33:35,920 INFO waiting for dc to stop
+2016-11-10 17:33:37,920 INFO waiting for dc to stop
+2016-11-10 17:33:39,920 INFO waiting for dc to stop
+2016-11-10 17:33:41,920 INFO waiting for dc to stop
+2016-11-10 17:33:43,920 INFO waiting for dc to stop
+2016-11-10 17:33:45,920 INFO waiting for dc to stop
+2016-11-10 17:33:47,920 INFO waiting for dc to stop
+2016-11-10 17:33:49,920 INFO waiting for dc to stop
+2016-11-10 17:33:51,920 INFO waiting for dc to stop
+2016-11-10 17:33:53,920 INFO waiting for dc to stop
+2016-11-10 17:33:55,920 INFO waiting for dc to stop
+2016-11-10 17:33:57,920 INFO waiting for dc to stop
+2016-11-10 17:33:59,920 INFO waiting for dc to stop
+2016-11-10 17:34:01,920 INFO waiting for dc to stop
+2016-11-10 17:34:03,920 INFO waiting for dc to stop
+2016-11-10 17:34:05,920 INFO waiting for dc to stop
+2016-11-10 17:34:07,920 INFO waiting for dc to stop
+2016-11-10 17:34:09,920 INFO waiting for dc to stop
+2016-11-10 17:34:11,920 INFO waiting for dc to stop
+2016-11-10 17:34:13,920 INFO waiting for dc to stop
+2016-11-10 17:34:15,920 INFO waiting for dc to stop
+2016-11-10 17:34:17,920 INFO waiting for dc to stop
+2016-11-10 17:34:19,920 INFO waiting for dc to stop
+2016-11-10 17:34:21,920 INFO waiting for dc to stop
+2016-11-10 17:34:23,920 INFO waiting for dc to stop
+2016-11-10 17:34:25,920 INFO waiting for dc to stop
+2016-11-10 17:34:27,920 INFO waiting for dc to stop
+2016-11-10 17:34:29,920 INFO waiting for dc to stop
+2016-11-10 17:34:31,920 INFO waiting for dc to stop
+2016-11-10 17:34:33,920 INFO waiting for dc to stop
+2016-11-10 17:34:35,920 INFO waiting for dc to stop
+2016-11-10 17:34:37,920 INFO waiting for dc to stop
+2016-11-10 17:34:39,920 INFO waiting for dc to stop
+2016-11-10 17:34:41,920 INFO waiting for dc to stop
+2016-11-10 17:34:43,920 INFO waiting for dc to stop
+2016-11-10 17:34:45,920 INFO waiting for dc to stop
+2016-11-10 17:34:47,920 INFO waiting for dc to stop
+2016-11-10 17:34:49,920 INFO waiting for dc to stop
+2016-11-10 17:34:51,920 INFO waiting for dc to stop
+2016-11-10 17:34:53,920 INFO waiting for dc to stop
+2016-11-10 17:34:55,920 INFO waiting for dc to stop
+2016-11-10 17:34:57,920 INFO waiting for dc to stop
+2016-11-10 17:34:59,920 INFO waiting for dc to stop
+2016-11-10 17:35:01,920 INFO waiting for dc to stop
+2016-11-10 17:35:03,920 INFO waiting for dc to stop
+2016-11-10 17:35:05,920 INFO waiting for dc to stop
+2016-11-10 17:35:07,920 INFO waiting for dc to stop
+2016-11-10 17:35:09,920 INFO waiting for dc to stop
+2016-11-10 17:35:11,920 INFO waiting for dc to stop
+2016-11-10 17:35:13,920 INFO waiting for dc to stop
+2016-11-10 17:35:15,920 INFO waiting for dc to stop
+2016-11-10 17:35:17,920 INFO waiting for dc to stop
+2016-11-10 17:35:19,920 INFO waiting for dc to stop
+2016-11-10 17:35:21,920 INFO waiting for dc to stop
+2016-11-10 17:35:23,920 INFO waiting for dc to stop
+2016-11-10 17:35:25,920 INFO waiting for dc to stop
+2016-11-10 17:35:27,920 INFO waiting for dc to stop
+2016-11-10 17:35:29,920 INFO waiting for dc to stop
+2016-11-10 17:35:31,920 INFO waiting for dc to stop
+2016-11-10 17:35:33,920 INFO waiting for dc to stop
+2016-11-10 17:35:35,921 INFO waiting for dc to stop
+2016-11-10 17:35:37,921 INFO waiting for dc to stop
+2016-11-10 17:35:39,921 INFO waiting for dc to stop
+2016-11-10 17:35:41,921 INFO waiting for dc to stop
+2016-11-10 17:35:43,921 INFO waiting for dc to stop
+2016-11-10 17:35:45,921 INFO waiting for dc to stop
+2016-11-10 17:35:47,921 INFO waiting for dc to stop
+2016-11-10 17:35:49,921 INFO waiting for dc to stop
+2016-11-10 17:35:51,921 INFO waiting for dc to stop
+2016-11-10 17:35:53,921 INFO waiting for dc to stop
+2016-11-10 17:35:55,921 INFO waiting for dc to stop
+2016-11-10 17:35:57,921 INFO waiting for dc to stop
+2016-11-10 17:35:59,921 INFO waiting for dc to stop
+2016-11-10 17:36:01,921 INFO waiting for dc to stop
+2016-11-10 17:36:03,921 INFO waiting for dc to stop
+2016-11-10 17:36:05,921 INFO waiting for dc to stop
+2016-11-10 17:36:07,921 INFO waiting for dc to stop
+2016-11-10 17:36:09,921 INFO waiting for dc to stop
+2016-11-10 17:36:11,921 INFO waiting for dc to stop
+2016-11-10 17:36:13,921 INFO waiting for dc to stop
+2016-11-10 17:36:15,921 INFO waiting for dc to stop
+2016-11-10 17:36:17,921 INFO waiting for dc to stop
+2016-11-10 17:36:19,921 INFO waiting for dc to stop
+2016-11-10 17:36:21,921 INFO waiting for dc to stop
+2016-11-10 17:36:23,921 INFO waiting for dc to stop
+2016-11-10 17:36:25,921 INFO waiting for dc to stop
+2016-11-10 17:36:27,921 INFO waiting for dc to stop
+2016-11-10 17:36:29,921 INFO waiting for dc to stop
+2016-11-10 17:36:31,921 INFO waiting for dc to stop
+2016-11-10 17:36:33,921 INFO waiting for dc to stop
+2016-11-10 17:36:35,921 INFO waiting for dc to stop
+2016-11-10 17:36:37,921 INFO waiting for dc to stop
+2016-11-10 17:36:39,921 INFO waiting for dc to stop
+2016-11-10 17:36:41,921 INFO waiting for dc to stop
+2016-11-10 17:36:43,921 INFO waiting for dc to stop
+2016-11-10 17:36:45,921 INFO waiting for dc to stop
+2016-11-10 17:36:47,921 INFO waiting for dc to stop
+2016-11-10 17:36:49,921 INFO waiting for dc to stop
+2016-11-10 17:36:51,921 INFO waiting for dc to stop
+2016-11-10 17:36:53,921 INFO waiting for dc to stop
+2016-11-10 17:36:55,921 INFO waiting for dc to stop
+2016-11-10 17:36:57,921 INFO waiting for dc to stop
+2016-11-10 17:36:59,921 INFO waiting for dc to stop
+2016-11-10 17:37:01,921 INFO waiting for dc to stop
+2016-11-10 17:37:03,921 INFO waiting for dc to stop
+2016-11-10 17:37:05,921 INFO waiting for dc to stop
+2016-11-10 17:37:07,921 INFO waiting for dc to stop
+2016-11-10 17:37:09,921 INFO waiting for dc to stop
+2016-11-10 17:37:11,921 INFO waiting for dc to stop
+2016-11-10 17:37:13,921 INFO waiting for dc to stop
+2016-11-10 17:37:15,921 INFO waiting for dc to stop
+2016-11-10 17:37:17,921 INFO waiting for dc to stop
+2016-11-10 17:37:19,921 INFO waiting for dc to stop
+2016-11-10 17:37:21,921 INFO waiting for dc to stop
+2016-11-10 17:37:23,921 INFO waiting for dc to stop
+2016-11-10 17:37:25,921 INFO waiting for dc to stop
+2016-11-10 17:37:27,921 INFO waiting for dc to stop
+2016-11-10 17:37:29,921 INFO waiting for dc to stop
+2016-11-10 17:37:31,921 INFO waiting for dc to stop
+2016-11-10 17:37:33,921 INFO waiting for dc to stop
+2016-11-10 17:37:35,921 INFO waiting for dc to stop
+2016-11-10 17:37:37,921 INFO waiting for dc to stop
+2016-11-10 17:37:39,921 INFO waiting for dc to stop
+2016-11-10 17:37:41,921 INFO waiting for dc to stop
+2016-11-10 17:37:43,921 INFO waiting for dc to stop
+2016-11-10 17:37:45,921 INFO waiting for dc to stop
+2016-11-10 17:37:47,921 INFO waiting for dc to stop
+2016-11-10 17:37:49,921 INFO waiting for dc to stop
+2016-11-10 17:37:51,921 INFO waiting for dc to stop
+2016-11-10 17:37:53,921 INFO waiting for dc to stop
+2016-11-10 17:37:55,921 INFO waiting for dc to stop
+2016-11-10 17:37:57,921 INFO waiting for dc to stop
+2016-11-10 17:37:59,921 INFO waiting for dc to stop
+2016-11-10 17:38:01,922 INFO waiting for dc to stop
+2016-11-10 17:38:03,922 INFO waiting for dc to stop
+2016-11-10 17:38:05,922 INFO waiting for dc to stop
+2016-11-10 17:38:07,922 INFO waiting for dc to stop
+2016-11-10 17:38:09,922 INFO waiting for dc to stop
+2016-11-10 17:38:11,922 INFO waiting for dc to stop
+2016-11-10 17:38:13,922 INFO waiting for dc to stop
+2016-11-10 17:38:15,922 INFO waiting for dc to stop
+2016-11-10 17:38:17,922 INFO waiting for dc to stop
+2016-11-10 17:38:19,922 INFO waiting for dc to stop
+2016-11-10 17:38:21,922 INFO waiting for dc to stop
+2016-11-10 17:38:23,922 INFO waiting for dc to stop
+2016-11-10 17:38:25,922 INFO waiting for dc to stop
+2016-11-10 17:38:27,922 INFO waiting for dc to stop
+2016-11-10 17:38:29,922 INFO waiting for dc to stop
+2016-11-10 17:38:31,922 INFO waiting for dc to stop
+2016-11-10 17:38:33,922 INFO waiting for dc to stop
+2016-11-10 17:38:35,922 INFO waiting for dc to stop
+2016-11-10 17:38:37,922 INFO waiting for dc to stop
+2016-11-10 17:38:39,922 INFO waiting for dc to stop
+2016-11-10 17:38:41,922 INFO waiting for dc to stop
+2016-11-10 17:38:43,922 INFO waiting for dc to stop
+2016-11-10 17:38:45,922 INFO waiting for dc to stop
+2016-11-10 17:38:47,922 INFO waiting for dc to stop
+2016-11-10 17:38:49,922 INFO waiting for dc to stop
+2016-11-10 17:38:51,922 INFO waiting for dc to stop
+2016-11-10 17:38:53,922 INFO waiting for dc to stop
+2016-11-10 17:38:55,922 INFO waiting for dc to stop
+2016-11-10 17:38:57,922 INFO waiting for dc to stop
+2016-11-10 17:38:59,922 INFO waiting for dc to stop
+2016-11-10 17:39:01,922 INFO waiting for dc to stop
+2016-11-10 17:39:03,922 INFO waiting for dc to stop
+2016-11-10 17:39:05,922 INFO waiting for dc to stop
+2016-11-10 17:39:07,922 INFO waiting for dc to stop
+2016-11-10 17:39:09,922 INFO waiting for dc to stop
+2016-11-10 17:39:11,922 INFO waiting for dc to stop
+2016-11-10 17:39:13,922 INFO waiting for dc to stop
+2016-11-10 17:39:15,922 INFO waiting for dc to stop
+2016-11-10 17:39:17,922 INFO waiting for dc to stop
+2016-11-10 17:39:19,922 INFO waiting for dc to stop
+2016-11-10 17:39:21,922 INFO waiting for dc to stop
+2016-11-10 17:39:23,922 INFO waiting for dc to stop
+2016-11-10 17:39:25,922 INFO waiting for dc to stop
+2016-11-10 17:39:27,922 INFO waiting for dc to stop
+2016-11-10 17:39:29,922 INFO waiting for dc to stop
+2016-11-10 17:39:31,922 INFO waiting for dc to stop
+2016-11-10 17:39:33,922 INFO waiting for dc to stop
+2016-11-10 17:39:35,922 INFO waiting for dc to stop
+2016-11-10 17:39:37,922 INFO waiting for dc to stop
+2016-11-10 17:39:39,922 INFO waiting for dc to stop
+2016-11-10 17:39:41,922 INFO waiting for dc to stop
+2016-11-10 17:39:43,922 INFO waiting for dc to stop
+2016-11-10 17:39:45,922 INFO waiting for dc to stop
+2016-11-10 17:39:47,922 INFO waiting for dc to stop
+2016-11-10 17:39:49,922 INFO waiting for dc to stop
+2016-11-10 17:39:51,922 INFO waiting for dc to stop
+2016-11-10 17:39:53,922 INFO waiting for dc to stop
+2016-11-10 17:39:55,922 INFO waiting for dc to stop
+2016-11-10 17:39:57,922 INFO waiting for dc to stop
+2016-11-10 17:39:59,922 INFO waiting for dc to stop
+2016-11-10 17:40:01,922 INFO waiting for dc to stop
+2016-11-10 17:40:03,923 INFO waiting for dc to stop
+2016-11-10 17:40:05,923 INFO waiting for dc to stop
+2016-11-10 17:40:07,923 INFO waiting for dc to stop
+2016-11-10 17:40:09,923 INFO waiting for dc to stop
+2016-11-10 17:40:11,923 INFO waiting for dc to stop
+2016-11-10 17:40:13,923 INFO waiting for dc to stop
+2016-11-10 17:40:15,923 INFO waiting for dc to stop
+2016-11-10 17:40:17,918 WARN killing 'dc' (11142) with SIGKILL
+2016-11-10 17:40:17,920 INFO stopped: dc (terminated by SIGKILL)
+2016-11-10 17:40:17,925 INFO spawned: 'dc' with pid 12048
+2016-11-10 17:40:28,759 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 17:48:52,916 INFO waiting for dc to stop
+2016-11-10 17:48:54,916 INFO waiting for dc to stop
+2016-11-10 17:48:56,916 INFO waiting for dc to stop
+2016-11-10 17:48:58,916 INFO waiting for dc to stop
+2016-11-10 17:49:00,916 INFO waiting for dc to stop
+2016-11-10 17:49:02,916 INFO waiting for dc to stop
+2016-11-10 17:49:04,916 INFO waiting for dc to stop
+2016-11-10 17:49:06,916 INFO waiting for dc to stop
+2016-11-10 17:49:08,916 INFO waiting for dc to stop
+2016-11-10 17:49:10,916 INFO waiting for dc to stop
+2016-11-10 17:49:36,815 INFO stopped: dc (terminated by SIGKILL)
+2016-11-10 17:55:31,238 CRIT Set uid to user 0
+2016-11-10 17:55:31,238 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-10 17:55:31,238 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-10 17:55:31,340 INFO RPC interface 'supervisor' initialized
+2016-11-10 17:55:31,341 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-10 17:55:31,342 INFO daemonizing the supervisord process
+2016-11-10 17:55:31,342 INFO supervisord started with pid 12714
+2016-11-10 17:55:32,346 INFO spawned: 'dc' with pid 12715
+2016-11-10 17:55:32,741 INFO exited: dc (exit status 2; not expected)
+2016-11-10 17:55:33,745 INFO spawned: 'dc' with pid 12720
+2016-11-10 17:55:34,026 INFO exited: dc (exit status 2; not expected)
+2016-11-10 17:55:36,031 INFO spawned: 'dc' with pid 12726
+2016-11-10 17:55:36,361 INFO exited: dc (exit status 2; not expected)
+2016-11-10 17:55:39,368 INFO spawned: 'dc' with pid 12737
+2016-11-10 17:55:39,699 INFO exited: dc (exit status 2; not expected)
+2016-11-10 17:55:40,700 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-10 17:58:23,876 CRIT Set uid to user 0
+2016-11-10 17:58:23,876 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-10 17:58:23,876 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-10 17:58:23,885 INFO RPC interface 'supervisor' initialized
+2016-11-10 17:58:23,886 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-10 17:58:23,886 INFO daemonizing the supervisord process
+2016-11-10 17:58:23,886 INFO supervisord started with pid 12900
+2016-11-10 17:58:24,891 INFO spawned: 'dc' with pid 12901
+2016-11-10 17:58:35,864 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-10 18:02:55,992 INFO waiting for dc to stop
+2016-11-10 18:02:57,992 INFO waiting for dc to stop
+2016-11-10 18:02:59,992 INFO waiting for dc to stop
+2016-11-10 18:03:01,992 INFO waiting for dc to stop
+2016-11-10 18:03:03,992 INFO waiting for dc to stop
+2016-11-10 18:03:05,992 INFO waiting for dc to stop
+2016-11-10 18:03:07,992 INFO waiting for dc to stop
+2016-11-10 18:03:09,992 INFO waiting for dc to stop
+2016-11-10 18:03:11,992 INFO waiting for dc to stop
+2016-11-10 18:03:13,992 INFO waiting for dc to stop
+2016-11-10 18:03:15,992 INFO waiting for dc to stop
+2016-11-10 18:03:29,347 INFO waiting for dc to die
+2016-11-10 18:03:32,351 INFO waiting for dc to die
+2016-11-10 18:03:35,356 INFO waiting for dc to die
+2016-11-10 18:03:38,359 INFO waiting for dc to die
+2016-11-10 18:03:41,363 INFO waiting for dc to die
+2016-11-10 18:03:44,367 INFO waiting for dc to die
+2016-11-10 18:03:47,370 INFO waiting for dc to die
+2016-11-10 18:03:50,373 INFO waiting for dc to die
+2016-11-10 18:03:53,377 INFO waiting for dc to die
+2016-11-10 18:03:56,381 INFO waiting for dc to die
+2016-11-10 18:03:59,384 INFO waiting for dc to die
+2016-11-10 18:04:02,389 INFO waiting for dc to die
+2016-11-10 18:04:05,393 INFO waiting for dc to die
+2016-11-10 18:04:08,396 INFO waiting for dc to die
+2016-11-10 18:04:11,400 INFO waiting for dc to die
+2016-11-10 18:04:14,404 INFO waiting for dc to die
+2016-11-10 18:04:17,408 INFO waiting for dc to die
+2016-11-10 18:04:17,498 INFO stopped: dc (terminated by SIGKILL)
+2016-11-11 09:29:52,495 CRIT Set uid to user 0
+2016-11-11 09:29:52,499 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 09:29:52,499 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 09:29:52,570 INFO RPC interface 'supervisor' initialized
+2016-11-11 09:29:52,570 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 09:29:52,571 INFO daemonizing the supervisord process
+2016-11-11 09:29:52,572 INFO supervisord started with pid 4063
+2016-11-11 09:29:53,575 INFO spawned: 'dc' with pid 4064
+2016-11-11 09:30:03,700 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 09:32:05,855 INFO waiting for dc to die
+2016-11-11 09:32:08,861 INFO waiting for dc to die
+2016-11-11 09:32:11,864 INFO waiting for dc to die
+2016-11-11 09:32:14,868 INFO waiting for dc to die
+2016-11-11 09:32:17,871 INFO waiting for dc to die
+2016-11-11 09:32:20,874 INFO waiting for dc to die
+2016-11-11 09:32:23,878 INFO waiting for dc to die
+2016-11-11 09:32:26,881 INFO waiting for dc to die
+2016-11-11 09:32:29,885 INFO waiting for dc to die
+2016-11-11 09:32:32,889 INFO waiting for dc to die
+2016-11-11 09:32:35,893 INFO waiting for dc to die
+2016-11-11 09:32:38,897 INFO waiting for dc to die
+2016-11-11 09:32:40,753 CRIT Set uid to user 0
+2016-11-11 09:32:40,753 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 09:32:40,753 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 09:32:40,819 ERRO Web interface error:Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/usr/local/lib/python2.7/dist-packages/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/usr/local/lib/python2.7/dist-packages/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/usr/local/lib/python2.7/dist-packages/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/usr/local/lib/python2.7/dist-packages/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2016-11-11 09:32:42,822 INFO waiting for dc to die
+2016-11-11 09:32:45,826 INFO waiting for dc to die
+2016-11-11 09:32:48,830 INFO waiting for dc to die
+2016-11-11 09:32:51,834 INFO waiting for dc to die
+2016-11-11 09:32:54,838 INFO waiting for dc to die
+2016-11-11 09:32:58,638 INFO waiting for dc to die
+2016-11-11 09:33:01,642 INFO waiting for dc to die
+2016-11-11 09:33:04,647 INFO waiting for dc to die
+2016-11-11 09:33:07,651 INFO waiting for dc to die
+2016-11-11 09:33:10,655 INFO waiting for dc to die
+2016-11-11 09:33:13,659 INFO waiting for dc to die
+2016-11-11 09:33:16,663 INFO waiting for dc to die
+2016-11-11 09:33:19,667 INFO waiting for dc to die
+2016-11-11 09:33:22,671 INFO waiting for dc to die
+2016-11-11 09:33:24,309 INFO stopped: dc (terminated by SIGKILL)
+2016-11-11 09:33:55,991 CRIT Set uid to user 0
+2016-11-11 09:33:55,991 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 09:33:55,991 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 09:33:56,001 INFO RPC interface 'supervisor' initialized
+2016-11-11 09:33:56,001 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 09:33:56,002 INFO daemonizing the supervisord process
+2016-11-11 09:33:56,002 INFO supervisord started with pid 4421
+2016-11-11 09:33:57,006 INFO spawned: 'dc' with pid 4422
+2016-11-11 09:34:07,049 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:34:11,714 INFO exited: dc (terminated by SIGKILL; not expected)
+2016-11-11 10:34:11,716 INFO spawned: 'dc' with pid 7470
+2016-11-11 10:34:18,413 INFO exited: dc (terminated by SIGKILL; not expected)
+2016-11-11 10:34:19,417 INFO spawned: 'dc' with pid 7501
+2016-11-11 10:34:30,409 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:34:47,766 INFO exited: dc (terminated by SIGKILL; not expected)
+2016-11-11 10:34:47,768 INFO spawned: 'dc' with pid 7558
+2016-11-11 10:34:58,730 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:35:26,766 INFO exited: dc (terminated by SIGKILL; not expected)
+2016-11-11 10:35:26,769 INFO spawned: 'dc' with pid 7610
+2016-11-11 10:35:27,615 INFO exited: dc (terminated by SIGKILL; not expected)
+2016-11-11 10:35:28,619 INFO spawned: 'dc' with pid 7631
+2016-11-11 10:35:32,536 INFO waiting for dc to die
+2016-11-11 10:35:34,208 INFO stopped: dc (exit status 0)
+2016-11-11 10:36:26,872 CRIT Set uid to user 0
+2016-11-11 10:36:26,872 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 10:36:26,872 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 10:36:26,882 INFO RPC interface 'supervisor' initialized
+2016-11-11 10:36:26,882 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 10:36:26,882 INFO daemonizing the supervisord process
+2016-11-11 10:36:26,883 INFO supervisord started with pid 7682
+2016-11-11 10:36:27,887 INFO spawned: 'dc' with pid 7683
+2016-11-11 10:36:38,845 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:45:27,134 INFO waiting for dc to stop
+2016-11-11 10:45:28,693 INFO stopped: dc (exit status 0)
+2016-11-11 10:46:04,696 CRIT Set uid to user 0
+2016-11-11 10:46:04,696 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 10:46:04,696 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 10:46:04,705 INFO RPC interface 'supervisor' initialized
+2016-11-11 10:46:04,705 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 10:46:04,706 INFO daemonizing the supervisord process
+2016-11-11 10:46:04,706 INFO supervisord started with pid 8390
+2016-11-11 10:46:05,712 INFO spawned: 'dc' with pid 8391
+2016-11-11 10:46:15,744 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:47:54,707 INFO waiting for dc to stop
+2016-11-11 10:47:56,268 INFO stopped: dc (exit status 0)
+2016-11-11 10:48:57,275 INFO spawned: 'dc' with pid 8590
+2016-11-11 10:49:08,192 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:49:46,435 INFO waiting for dc to stop
+2016-11-11 10:49:47,996 INFO stopped: dc (exit status 0)
+2016-11-11 10:50:07,459 INFO spawned: 'dc' with pid 8771
+2016-11-11 10:50:18,315 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:53:51,371 INFO waiting for dc to stop
+2016-11-11 10:53:52,935 INFO stopped: dc (exit status 0)
+2016-11-11 10:54:35,842 INFO spawned: 'dc' with pid 9508
+2016-11-11 10:54:46,581 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:55:41,981 INFO waiting for dc to stop
+2016-11-11 10:55:43,534 INFO stopped: dc (exit status 0)
+2016-11-11 10:55:51,988 INFO spawned: 'dc' with pid 9598
+2016-11-11 10:56:02,701 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 10:57:57,680 INFO waiting for dc to stop
+2016-11-11 10:57:59,234 INFO stopped: dc (exit status 0)
+2016-11-11 10:57:59,239 INFO spawned: 'dc' with pid 9689
+2016-11-11 10:58:09,909 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:01:12,527 INFO waiting for dc to stop
+2016-11-11 11:01:14,121 INFO stopped: dc (exit status 0)
+2016-11-11 11:01:14,125 INFO spawned: 'dc' with pid 9847
+2016-11-11 11:01:24,796 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:01:50,888 INFO waiting for dc to stop
+2016-11-11 11:01:52,445 INFO stopped: dc (exit status 0)
+2016-11-11 11:02:59,333 CRIT Set uid to user 0
+2016-11-11 11:02:59,334 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:02:59,334 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:02:59,343 INFO RPC interface 'supervisor' initialized
+2016-11-11 11:02:59,343 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 11:02:59,344 INFO daemonizing the supervisord process
+2016-11-11 11:02:59,344 INFO supervisord started with pid 9947
+2016-11-11 11:03:00,348 INFO spawned: 'dc' with pid 9948
+2016-11-11 11:03:11,056 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:03:26,572 INFO waiting for dc to stop
+2016-11-11 11:03:28,138 INFO stopped: dc (exit status 0)
+2016-11-11 11:04:04,989 CRIT Set uid to user 0
+2016-11-11 11:04:04,989 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:04:04,989 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:04:04,999 INFO RPC interface 'supervisor' initialized
+2016-11-11 11:04:04,999 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 11:04:04,999 INFO daemonizing the supervisord process
+2016-11-11 11:04:05,000 INFO supervisord started with pid 10063
+2016-11-11 11:04:06,003 INFO spawned: 'dc' with pid 10064
+2016-11-11 11:04:16,639 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:11:00,681 INFO waiting for dc to stop
+2016-11-11 11:11:00,730 INFO stopped: dc (exit status 0)
+2016-11-11 11:11:27,400 CRIT Set uid to user 0
+2016-11-11 11:11:27,400 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:11:27,400 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:11:27,410 INFO RPC interface 'supervisor' initialized
+2016-11-11 11:11:27,410 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 11:11:27,411 INFO daemonizing the supervisord process
+2016-11-11 11:11:27,411 INFO supervisord started with pid 11609
+2016-11-11 11:11:28,415 INFO spawned: 'dc' with pid 11610
+2016-11-11 11:11:28,725 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:11:29,729 INFO spawned: 'dc' with pid 11615
+2016-11-11 11:11:30,063 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:11:32,068 INFO spawned: 'dc' with pid 11621
+2016-11-11 11:11:32,436 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:11:35,442 INFO spawned: 'dc' with pid 11626
+2016-11-11 11:11:35,822 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:11:36,824 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-11 11:12:13,437 INFO spawned: 'dc' with pid 11660
+2016-11-11 11:12:13,692 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:12:14,696 INFO spawned: 'dc' with pid 11665
+2016-11-11 11:12:15,046 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:12:17,053 INFO spawned: 'dc' with pid 11670
+2016-11-11 11:12:17,427 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:12:20,434 INFO spawned: 'dc' with pid 11675
+2016-11-11 11:12:20,781 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:12:21,782 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-11 11:14:23,453 CRIT Set uid to user 0
+2016-11-11 11:14:23,454 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:14:23,454 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:14:23,463 INFO RPC interface 'supervisor' initialized
+2016-11-11 11:14:23,463 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 11:14:23,464 INFO daemonizing the supervisord process
+2016-11-11 11:14:23,464 INFO supervisord started with pid 11751
+2016-11-11 11:14:24,468 INFO spawned: 'dc' with pid 11752
+2016-11-11 11:14:24,799 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:14:25,804 INFO spawned: 'dc' with pid 11757
+2016-11-11 11:14:26,171 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:14:28,176 INFO spawned: 'dc' with pid 11767
+2016-11-11 11:14:28,486 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:14:31,492 INFO spawned: 'dc' with pid 11781
+2016-11-11 11:14:31,790 INFO exited: dc (exit status 2; not expected)
+2016-11-11 11:14:32,792 INFO gave up: dc entered FATAL state, too many start retries too quickly
+2016-11-11 11:15:29,346 CRIT Set uid to user 0
+2016-11-11 11:15:29,346 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:15:29,346 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:16:57,486 CRIT Set uid to user 0
+2016-11-11 11:16:57,486 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:16:57,486 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:16:57,497 INFO RPC interface 'supervisor' initialized
+2016-11-11 11:16:57,498 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 11:16:57,498 INFO daemonizing the supervisord process
+2016-11-11 11:16:57,499 INFO supervisord started with pid 11932
+2016-11-11 11:16:58,502 INFO spawned: 'dc' with pid 11933
+2016-11-11 11:17:09,154 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:37:37,098 INFO waiting for dc to stop
+2016-11-11 11:37:39,098 INFO waiting for dc to stop
+2016-11-11 11:37:41,098 INFO waiting for dc to stop
+2016-11-11 11:37:43,098 INFO waiting for dc to stop
+2016-11-11 11:37:45,098 INFO waiting for dc to stop
+2016-11-11 11:37:47,098 INFO waiting for dc to stop
+2016-11-11 11:37:49,098 INFO waiting for dc to stop
+2016-11-11 11:37:51,098 INFO waiting for dc to stop
+2016-11-11 11:37:53,098 INFO waiting for dc to stop
+2016-11-11 11:37:55,098 INFO waiting for dc to stop
+2016-11-11 11:37:57,098 INFO waiting for dc to stop
+2016-11-11 11:37:59,098 INFO waiting for dc to stop
+2016-11-11 11:38:01,098 INFO waiting for dc to stop
+2016-11-11 11:38:03,098 INFO waiting for dc to stop
+2016-11-11 11:38:05,098 INFO waiting for dc to stop
+2016-11-11 11:38:07,098 INFO waiting for dc to stop
+2016-11-11 11:38:09,098 INFO waiting for dc to stop
+2016-11-11 11:38:11,098 INFO waiting for dc to stop
+2016-11-11 11:38:13,098 INFO waiting for dc to stop
+2016-11-11 11:38:15,098 INFO waiting for dc to stop
+2016-11-11 11:38:17,098 INFO waiting for dc to stop
+2016-11-11 11:38:19,098 INFO waiting for dc to stop
+2016-11-11 11:38:21,098 INFO waiting for dc to stop
+2016-11-11 11:38:23,098 INFO waiting for dc to stop
+2016-11-11 11:38:25,098 INFO waiting for dc to stop
+2016-11-11 11:38:27,098 INFO waiting for dc to stop
+2016-11-11 11:38:29,098 INFO waiting for dc to stop
+2016-11-11 11:38:31,098 INFO waiting for dc to stop
+2016-11-11 11:38:33,099 INFO waiting for dc to stop
+2016-11-11 11:38:35,099 INFO waiting for dc to stop
+2016-11-11 11:38:37,099 INFO waiting for dc to stop
+2016-11-11 11:38:39,099 INFO waiting for dc to stop
+2016-11-11 11:38:41,099 INFO waiting for dc to stop
+2016-11-11 11:38:43,099 INFO waiting for dc to stop
+2016-11-11 11:38:45,099 INFO waiting for dc to stop
+2016-11-11 11:38:47,099 INFO waiting for dc to stop
+2016-11-11 11:38:49,099 INFO waiting for dc to stop
+2016-11-11 11:38:51,099 INFO waiting for dc to stop
+2016-11-11 11:38:53,099 INFO waiting for dc to stop
+2016-11-11 11:39:07,584 INFO stopped: dc (terminated by SIGKILL)
+2016-11-11 11:39:51,364 CRIT Set uid to user 0
+2016-11-11 11:39:51,364 INFO Increased RLIMIT_NOFILE limit to 10240
+2016-11-11 11:39:51,364 INFO Included extra file "/home/oraant/test/django_celery/celeryd.conf" during parsing
+2016-11-11 11:39:51,373 INFO RPC interface 'supervisor' initialized
+2016-11-11 11:39:51,374 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2016-11-11 11:39:51,374 INFO daemonizing the supervisord process
+2016-11-11 11:39:51,375 INFO supervisord started with pid 14993
+2016-11-11 11:39:52,379 INFO spawned: 'dc' with pid 14994
+2016-11-11 11:40:02,992 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:48:52,322 INFO waiting for dc to stop
+2016-11-11 11:48:52,385 INFO stopped: dc (exit status 0)
+2016-11-11 11:48:55,849 INFO spawned: 'dc' with pid 16805
+2016-11-11 11:49:06,502 INFO success: dc entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2016-11-11 11:52:51,020 INFO waiting for dc to stop
+2016-11-11 11:52:52,582 INFO stopped: dc (exit status 0)
