@@ -7,7 +7,9 @@ def handler(a,b):
 signal.signal(signal.SIGTERM, handler)
 
 print os.getpid()
-signal.pause()
+print 'before pause'
+msg = signal.pause()
+print 'msg is %s' % msg
 print 'after pause'
 
 # 结论：
