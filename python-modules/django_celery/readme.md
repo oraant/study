@@ -1,0 +1,12 @@
+如果一个task正在等待retry，在这个过程中，即使worker重启了，task的状态仍然是等待retry，并且该重试时仍会重试。
+
+如果一个task正在等待retry，此时revoke这个函数，当开始retry时，发现这个task已经被revoke了，就会丢弃这次revoke，并将其状态更新为revoked
+
+如果一个task正在等待retry，此时revoke这个函数，然后重启了worker，这时worker的内存中不再保存有哪些是revoked了，所以当开始retry时，并不知道哪些是revoked，到了时间，该retry还是retry。
+
+为了保存住revoke信息，可以通过statedb参数，使worker即使重启也能记住revoke信息。
+
+记住：多次delay同一任务，生成的task_id是不同的，所以是不同的任务。
+2016-11-21 10:57:51
+
+另外：如果一个task的retry次数到达最大值，那么status将会更新为FAILURE

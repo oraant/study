@@ -14,6 +14,16 @@ def add(x, y):
     return x + y
 
 @shared_task(bind=True)
+def see(self):
+    out_output(type(self), '/tmp/aaaaaaaaaaaaa.log')
+    out_output(str(self), '/tmp/aaaaaaaaaaaaa.log')
+    out_output(dir(self), '/tmp/aaaaaaaaaaaaa.log')
+    out_output(self.__class__, '/tmp/aaaaaaaaaaaaa.log')
+    out_output(self.__name__, '/tmp/aaaaaaaaaaaaa.log')
+    out_output(self.__doc__, '/tmp/aaaaaaaaaaaaa.log')
+    #out_output(self.__class__, '/tmp/aaaaaaaaaaaaa.log')
+
+@shared_task(bind=True)
 def mainjob(self, name):
 
     self.filename = '/tmp/dc/django_celery_%s.log' % name
